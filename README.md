@@ -16,3 +16,5 @@ Backend code for chatbot
 - Load balancers along with Auto-scaling policies can be used for handling surge in traffic
 - backend health check end-point can be used to monitor the health of the system
 - observability & monitoring should be used for production
+- CI/CD pipelines need to be there
+- at the bare minimum we should have dev & prod env.. ideally Dev -> QA -> UA -> PROD
